@@ -1,0 +1,26 @@
+_repo: The-Great-Civil-War-in-Lancashire--1642-1651-_41347
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Broxap, Ernest
+    gutenberg_agent_id: '41125'
+    url: http://www.gutenberg.org/2009/agents/41125
+description: ''
+gutenberg_issued: '2012-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41347'
+  lccn: '10018952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649'
+- !lcsh 'Lancashire (England) -- History'
+title: The Great Civil War in Lancashire  (1642-1651)
+url: http://www.gutenberg.org/ebooks/41347
